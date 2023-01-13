@@ -13,6 +13,7 @@ public class MyPanel extends JPanel {
 
 
     }
+    /** Wygenerowanie tła gry */
     public void paint(Graphics g)
     {
         super.paint(g);
